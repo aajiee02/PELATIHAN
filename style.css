@@ -6,7 +6,7 @@ color: #191970; /*warna tekstur utama (Biru gelap)
 
 .kartu-profil {
   width: 300px;
-  margin: 50px auto; /* 50px jarak atas/bawag, auto menengahkan kiri/kanan */
+  margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
   padding: 20px;
   bacground-color: white;
   border-radius: 15px; /* Membuat sudet menjadi melengkung */
